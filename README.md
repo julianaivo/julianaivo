@@ -164,7 +164,7 @@ My name is Juliana Ivo, and I'm a Computer Science student. I'm always looking t
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/juliana-ivo/)" target="_blank">
+<a href="https://www.linkedin.com/in/juliana-ivo/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width= 30px/>
 </a>
 &nbsp;&nbsp;
