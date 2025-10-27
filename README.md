@@ -185,8 +185,8 @@ My name is Juliana Ivo, and I'm a Computer Science student. I'm always looking t
 ### 💡 Highlights
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="octocat-notebook.png" width="120px" alt="Octocat" />
-  <p style="max-width: 400px; text-align: left;">As a researcher, I've had articles and papers accepted. One, titled "Presença Feminina em Diversas Áreas de TI no Nordeste: Uma análise Exploratória dos Desafios e Oportunidades” (Female Presence in Various IT Areas in the Northeast: An Exploratory Analysis of Challenges and Opportunities) was recognized as the **Best Article of the Digital Girls Program Workshop**. Here are some of my other works: </p>
+  <img src="octocat-book.png" width="120px" alt="Octocat" />
+  <p style="max-width: 400px; text-align: left;">As a researcher, I've had articles and papers accepted. One, titled "Presença Feminina em Diversas Áreas de TI no Nordeste: Uma análise Exploratória dos Desafios e Oportunidades” (Female Presence in Various IT Areas in the Northeast: An Exploratory Analysis of Challenges and Opportunities) was recognized as the Best Article of the Digital Girls Program Workshop. Here are some of my other works: </p>
 </div>
 
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
