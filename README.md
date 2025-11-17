@@ -121,19 +121,28 @@ My name is Juliana Ivo, and I'm a Computer Science student. I'm always looking t
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
 />
 <img 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img 
     alt="Postman" 
     title="Postman"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
-<img 
-    alt="Latex" 
-    title="Latex"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
-/>
+
+</div>
+
+---
+
+### 🎨 Creative & Technical Tools
+
+<div align="center">
+
 <img 
     alt="Blender" 
     title="Blender"
@@ -154,6 +163,13 @@ My name is Juliana Ivo, and I'm a Computer Science student. I'm always looking t
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
+/>
+<img 
+    alt="Latex" 
+    title="Latex"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
 />
 
 </div>
