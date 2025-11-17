@@ -207,7 +207,7 @@ My name is Juliana Ivo, and I'm a Computer Science student. I'm always looking t
 
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <p>
-    • Presença de Projetos Parceiros Nordestinos do Meninas Digitais em Artigos do MIT - Análise Qualitativa de Temáticas Trabalhadas (ERBASE 2025)<br/>
+    • Presença de Projetos Parceiros Nordestinos do Meninas Digitais em Artigos do WIT - Análise Qualitativa de Temáticas Trabalhadas (ERBASE 2025)<br/>
     • Presença Feminina em Diversas Áreas da Tecnologia da Informação no Contexto Nordestino - Desafios e Oportunidades (ERBASE 2025)<br/>
     • Virtual Aunt Vera against misinformation in election campaigns (SBTI 2025)</p>
 </div>
